@@ -33,7 +33,7 @@ This project demonstrates the implementation of a neural network for classifying
 5. Compiling the Model:
 * Compile the model using the Adam optimizer and sparse categorical cross-entropy loss function
 6. Training the Model:
-Train the model on the training data for a specified number of epochs
+* Train the model on the training data for a specified number of epochs
 7. Evaluating the Model:
 * Evaluate the model's performance on the test data
 * Display the accuracy and loss
@@ -44,5 +44,5 @@ Train the model on the training data for a specified number of epochs
 * Display sample images from the test set along with their predicted and true labels.
 * Plot the confusion matrix to visualize the model's performance
 
-** The model achieves a high accuracy on both the training and test datasets **
+**The model achieves a high accuracy on both the training and test datasets**
 
