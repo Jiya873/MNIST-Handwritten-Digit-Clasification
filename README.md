@@ -19,6 +19,7 @@ This project demonstrates the implementation of a neural network for classifying
    ```
 2. Install the required packages
 3. Run the cells sequentially to execute the code
+4. Enter the path of the image to be predicted when prompted
 
 ## Notebook Overview
 1. **Importing Dependencies:**
